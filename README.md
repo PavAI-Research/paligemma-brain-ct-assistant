@@ -1,6 +1,8 @@
 # paligemma-brain-ct-assistant
 demo of using finetuned model for brain CT image detection on region of interest
 
+![image](./images/PaliGemma-brain_ct-demo.png "gradio demo app")
+
 ### How to use it
 
 prepare a local environment by installing requirements
